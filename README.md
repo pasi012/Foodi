@@ -49,10 +49,6 @@ This is a mobile application developed using Flutter that allows users to order 
 - Block/Unblock Seller Account
 - Block/Unblock Rider Account 
 
-## Screenshots
-
-Include some screenshots of your app here to give users a visual preview.
-
 ## Installation
 
 1. Clone the repository:
