@@ -114,8 +114,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Firebase](https://firebase.google.com/) - Backend services for user authentication and data storage.
 - [Stripe](https://stripe.com/) - Payment gateway integration.
 
-## Admin Web Portal
-
-https://github.com/helloharendra/Complete-Food-Delivery-App-Flutter/assets/78723011/f377d114-acf9-4a05-9eb0-e955e403fe34
-
-
