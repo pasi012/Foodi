@@ -4,17 +4,17 @@
  </br>
  A Complete Food Delivery Flutter App with Admin web portal. basically it contains (rider app,seller app and user app with super admin web portal) .
 
- # I-Eat-Delivery-App-Flutter
+ # Foodi App
 
 This is a mobile application developed using Flutter that allows users to order food from various restaurants for delivery.
 
 ## Features
 ### This project contains following apps and web application.
-- Seller App
+- Resturant App
 - User App
 - Rider App
-- Admin web Portal
-## Seller App
+- Admin App
+## resturant App
 - Seller registration and authentication
 - Manage Profile
 - Browse restaurants and menus
@@ -43,7 +43,7 @@ This is a mobile application developed using Flutter that allows users to order 
 - Track order status
 - Browse History
 - Browse Total Earning
-## Admin web portal
+## Admin App
 - Admin registration and authentication
 - Block/Unblock User Account
 - Block/Unblock Seller Account
@@ -58,13 +58,13 @@ Include some screenshots of your app here to give users a visual preview.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/IPH-Technologies-Pvt-Ltd/I-Eat-Delivery-App-Flutter
+git clone https://github.com/pasi012/Foodi
 ```
 
 2. Change to the project directory:
 
 ```bash
-cd I-Eat-Delivery-App-Flutter
+cd Foodi
 ```
 
 3. Install dependencies:
@@ -113,16 +113,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [Flutter](https://flutter.dev/) - UI framework used for building the app.
 - [Firebase](https://firebase.google.com/) - Backend services for user authentication and data storage.
 - [Stripe](https://stripe.com/) - Payment gateway integration.
-
-## Contact
-
-For any inquiries or support, please contact [email protected]
-
-Feel free to update the content as per your specific app's details.
-## Screen recording of App
-
-https://github.com/helloharendra/Complete-Food-Delivery-App-Flutter/assets/126752734/27bd5c10-67f3-4893-bb13-9db3f18bd333
-
 
 ## Admin Web Portal
 
